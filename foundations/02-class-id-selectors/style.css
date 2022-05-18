@@ -1,0 +1,16 @@
+.odd{
+    background-color: rgb(181, 57, 36);
+    font-family: Verdana , "DejaVu Sans" , sans-serif;
+}
+.two{
+    color:blue;
+    font-size: 36px;
+}
+#roll, #ball {
+    font-size: 24px;
+    
+}
+.four{
+    font-weight:bold;
+    background-color: lightgreen;
+}
